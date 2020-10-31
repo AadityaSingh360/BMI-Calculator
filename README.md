@@ -1,16 +1,8 @@
 # bmicalculator
 
-A new Flutter application.
+A flutter application that tells the bmi of the person
 
-## Getting Started
+##How it Looks
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![bmi1_iphonexspacegrey_portrait](https://user-images.githubusercontent.com/56865898/97772008-9f69ec80-1b68-11eb-82a4-c3981db6f9b0.png)
+![bmi2_iphonexspacegrey_portrait](https://user-images.githubusercontent.com/56865898/97772021-cde7c780-1b68-11eb-873c-1ccc96cf77d6.png)
